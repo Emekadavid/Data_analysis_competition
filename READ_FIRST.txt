@@ -1,9 +1,0 @@
-Because the files in the data analysis were related (e.g image files), 
-I decided to zip all the files together. Please, I hope you don't mind. 
-
-The notebook that would be used for presentation if I come out at top
-20 is hackathon.ipynb. When you extract the files and open it, you 
-will see the detailed analysis I carried out on the data sets 
-based on the time constraint I faced. 
-
-Thank you. 
