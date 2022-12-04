@@ -55,3 +55,7 @@ We have a lot to do in Africa to reverse the trend of falling health systems and
 ## Gratitude
 
 These analysis was done as part of the 10Alytics Hackathon 2022 that was carried out online on December 3-4, 2022. It was organized by 10Alytics and Mustard Insights in Nigeria. I give much thanks to them for giving me the opportunity to participate in the hackathon. 
+
+During the hackathon, I was 16th from 1800 participants spread across different countries in Africa. So glad about it. 
+
+I hope you enjoyed the analysis. 
