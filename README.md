@@ -1,5 +1,7 @@
 # Tackling The Health Crisis In Africa
 
+![A doctor treating a child](./image/health.jpg?raw=true "Title")
+
 ## Problem Statement
 
 Is Africa really facing a health crises? The African news scene is abounding with talk of medical tourism and the brain drain of skilled medical personnel. But what does the data say about the subject?
